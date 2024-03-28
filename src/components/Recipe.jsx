@@ -238,7 +238,6 @@ const NutritionTable = styled.table`
   }
 
   td {
-    padding-left: 1rem;
     padding-right: 2rem;
     color: var(--color-primary);
     font-weight: var(--bold);
